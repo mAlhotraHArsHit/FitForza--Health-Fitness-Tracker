@@ -1,4 +1,4 @@
-use the below commands before running the project
+Download the below dependencies before starting the project
 ``` 
 npm install react-router-dom
 ````
@@ -17,7 +17,7 @@ npm install axios
 ```
 npm install react-scripts
 ```
-use the below command to run the site
+use the below command to run the project
 ```
 npm start
 ```
