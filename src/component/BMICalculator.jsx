@@ -50,6 +50,7 @@ const BMICalculator = ({ onSubmit }) => {
         onChange={(e) => setHeight(e.target.value)}
         required
       />
+      
       <h1 class="bmitext">Weight</h1>
       <input
         type="number"
