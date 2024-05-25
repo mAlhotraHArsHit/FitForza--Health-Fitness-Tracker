@@ -123,7 +123,7 @@ const Header = () => {
           </div>
           <div className="nav__right">
             {isAuthenticated && (
-              <p className="nav__item user__name"> Hitesh </p>
+              <p className="nav__item user__name"> Harshit </p>
             )}
             {isAuthenticated ? (
               <button className="register__btn" onClick={handleLogOut}>
