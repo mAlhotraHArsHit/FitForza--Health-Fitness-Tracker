@@ -1,7 +1,7 @@
-Checkout the website 
-```
+Checkout the website:
+
 https://fit-forza-health-fitness-tracker.vercel.app/
-```
+
 
 Download the below dependencies before starting the project
 ``` 
