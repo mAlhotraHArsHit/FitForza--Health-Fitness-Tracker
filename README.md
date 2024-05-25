@@ -1,1 +1,23 @@
-
+use the below commands before running the project
+``` 
+npm install react-router-dom
+````
+``` 
+npm install chart.js react-chartjs-2
+````
+``` 
+npm install @auth0/auth0-react
+````
+``` 
+npm install css-loader style-loader
+````
+```
+npm install axios
+```
+```
+npm install react-scripts
+```
+use the below command to run the site
+```
+npm start
+```
